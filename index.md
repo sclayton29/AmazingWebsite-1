@@ -1,22 +1,10 @@
-You can use markdown to add content to you webpage.
+# Welcome to my page
 
-Here are some highlights of markdown syntax.
+Today, I'm learing how to use GitHub!!!
 
-# Heading 1
-## Heading 2
-### Heading 3
+Here is my joy emoji:
 
-**bold**
-*italics*
+![joy emoji image](images/joy.jpg)
 
-1. List Item 1
-2. List Item 2
 
-* Bullet 1
-* Bullet 2
-* Bullet 3
-
-[This is a link](https://google.com)
-
-Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+I'll look like this while working at [WCC](https://www.sunywcc.edu)
