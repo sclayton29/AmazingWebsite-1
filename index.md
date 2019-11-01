@@ -1,6 +1,6 @@
 # Welcome to my page
 
-Today, I'm learing how to use GitHub!!!
+Today, I'm learing how to use GitHub!!! Glad you are here. 
 
 Here is my joy emoji:
 
